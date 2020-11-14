@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/freshesfaultier/freshesfaultier/banner.png "Header")](https://freshes-faultier.de)
+[![Header](https://raw.githubusercontent.com/freshesfaultier/freshesfaultier/main/banner.png "Header")](https://freshes-faultier.de)
 
 
 # Hi! <img src="https://raw.githubusercontent.com/freshesfaultier/freshesfaultier/main/wave.gif" width="30px">
