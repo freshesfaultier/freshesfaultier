@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/freshesfaultier/freshesfaultier/master/wave.gif" width="30px">
+
 
 <!--
 **freshesfaultier/freshesfaultier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
