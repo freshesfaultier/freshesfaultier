@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/freshesfaultier/freshesfaultier/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/freshesfaultier/freshesfaultier/main/wave.gif" width="30px">
 
 
 <!--
